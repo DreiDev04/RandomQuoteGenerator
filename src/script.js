@@ -9,12 +9,14 @@ const setAuthor = (theAuthor) => {
 const setBG_color = () => {
   const arrColor = [
     "#331D2C",
-    "#F1C93B",
+    "#2B2730",
     "#1D5B79",
     "#EF6262",
     "#45CFDD",
     "#A76F6F",
     "#FF9EAA",
+    "#1A5D1A",
+    "#3F2E3E"
   ];
   const randomInteger = Math.floor(Math.random() * arrColor.length);
 
