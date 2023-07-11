@@ -6,7 +6,7 @@ $color: #472e32;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  // outline: solid red 1px;
+  // outline: solid red 1px
 }
 
 .bg {
@@ -23,6 +23,7 @@ $color: #472e32;
   max-width: 550px;
   background-color: white;
   border-radius: 15px;
+  margin: 0 4rem;
   .content_container {
     padding: 40px 30px;
     .text {
